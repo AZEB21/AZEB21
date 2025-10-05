@@ -1,4 +1,4 @@
-# 👋 Hi, I’m AZEB YIRGA software enginnering student at AASTU.
+# 👋 Hi, I’m Azeb Yirga, a Software Engineering student  @AASTU
 ## 💻I’m interested in software development, open-source projects, and problem-solving. 
 ### 🌱 I’m currently learning advanced programming concepts, algorithms, and system design.  
  
